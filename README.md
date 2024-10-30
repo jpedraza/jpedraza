@@ -72,7 +72,7 @@ Backend Developer with expertise in Machine Learning (ML) infrastructure, specia
 
 ## Links
 <p align="center">
-  <a href="[https://jpedraza.github.io/jpedraza/]/"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /> </a> 
+  <a href="[https://jpedraza.github.io/jpedraza/]"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /> </a> 
   <a> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </a>
 </p>
 
