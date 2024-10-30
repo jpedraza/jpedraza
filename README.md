@@ -1,6 +1,6 @@
 ### Hi there, 👨- I'm <a href="" target="_blank" title="Jose Pedraza">Jose Pedraza</a> 👋 Glad to see you here!
 
-<img align="right" alt="Jose Pedraza" src="meeting.jpg" width="350" />
+<img align="right" alt="Jose Pedraza" src="meeting.jpg" width="365" />
 
 Project rescuer and building effective solutions. </br>Love interacting with the community, sharing knowledge, and learning new things.
 </br>IT Remote Coach in the areas of Infrastructure, Cybersecurity, DevOps, Crypto, Blockchain, Full-Stack, Finance
