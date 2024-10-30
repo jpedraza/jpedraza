@@ -9,8 +9,8 @@
 
 <img align="right" alt="Jose Pedraza" src="images/code.gif" width="400" />
 
-Project rescuer and building effective solutions. IT Coach in the areas of Infrastructure, Cybersecurity, DevOps, Finance, Crypto, Blockchain, Full-Stack
-</br>Love interacting with the community, sharing knowledge, and learning new things.
+Project rescuer and building effective solutions. Love interacting with the community, sharing knowledge, and learning new things.
+</br>IT Remote Coach in the areas of Infrastructure, Cybersecurity, DevOps, Crypto, Blockchain, Full-Stack, Finance
 
 ## Introduction
 
