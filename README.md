@@ -60,5 +60,5 @@ Backend Developer with expertise in Machine Learning (ML) infrastructure, specia
 ## Links
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  </a></p>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=jpedraza&rank_icon=github&include_all_commits=true&show_icons=true&theme=transparent"></a>
+</p>
