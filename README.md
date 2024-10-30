@@ -6,10 +6,10 @@ Project rescuer and building effective solutions. </br>Love interacting with the
 </br>IT Remote Coach in the areas of Infrastructure, Cybersecurity, DevOps, Crypto, Blockchain, Full-Stack, Finance
 <br><br>
 **Talking about personal stuff:**<br><br>
-[![Jose Pedraza's LinkedIn Profile](images/linkedin.png)](https://linkedin.com/in/)
-[![Jose Pedraza's Facebook Profile](images/facebook.png)](https://www.facebook.com/)
-[![Jose Pedraza's Twitter Profile](images/twitter.png)](https://twitter.com/)
-[![Jose Pedraza's Credly Profile](images/credly.png)](https://www.credly.com/users/)
+[![Jose Pedraza's LinkedIn Profile](linkedin.png)](https://linkedin.com/in/)
+[![Jose Pedraza's Facebook Profile](facebook.png)](https://www.facebook.com/)
+[![Jose Pedraza's Twitter Profile](twitter.png)](https://twitter.com/)
+[![Jose Pedraza's Credly Profile](credly.png)](https://www.credly.com/users/)
 
 - 📧 How to reach me: 
 - 💬 Skype: 
