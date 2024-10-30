@@ -1,3 +1,16 @@
+### Hi there, I'm <a href="" target="_blank" title="Jose Pedraza">Jose Pedraza</a> 👋
+[![Jose Pedraza's LinkedIn Profile](images/linkedin.png)](https://linkedin.com/in/)
+[![Jose Pedraza's Facebook Profile](images/facebook.png)](https://www.facebook.com/)
+[![Jose Pedraza's Twitter Profile](images/twitter.png)](https://twitter.com/)
+[![Jose Pedraza's Credly Profile](images/credly.png)](https://www.credly.com/users/)
+</br>
+
+### Glad to see you here!
+
+<img align="right" alt="Jose Pedraza" src="images/code.gif" width="400" />
+
+Love interacting with the community, sharing knowledge, and learning new things.
+
 ## Introduction
 
 Backend Developer with expertise in Machine Learning (ML) infrastructure, specializing in building scalable and efficient solutions across various domains. Extensive experience in enhancing ML infrastructure for search algorithms, fraud detection, and recommendation systems, collaborating with data scientists to deploy models into production seamlessly. Proficient in designing automated data pipelines with Apache Airflow and AWS, developing and optimizing RESTful APIs, and implementing CI/CD pipelines to streamline deployments. Skilled in managing cloud infrastructure on AWS & Google Cloud leveraging microservices architecture for secure, scalable, and cost-effective solutions.
