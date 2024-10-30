@@ -28,3 +28,20 @@ Backend Developer with expertise in Machine Learning (ML) infrastructure, specia
   </a>
 </p>
 
+**DevOps:**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,bitbucket,docker,git,github,gitlab,grafana,kubernetes,prometheus,terraform" />
+  </a>
+</p>
+
+**Tools:**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=anaconda,devto,discord,neovim,notion,postman,pytorch,sklearn,tensorflow,vscode" />
+  </a>
+</p>
+
+**Misc:**
