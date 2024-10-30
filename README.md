@@ -11,6 +11,14 @@
 
 Project rescuer and building effective solutions. </br>Love interacting with the community, sharing knowledge, and learning new things.
 </br>IT Remote Coach in the areas of Infrastructure, Cybersecurity, DevOps, Crypto, Blockchain, Full-Stack, Finance
+</br> **Talking about personal stuff:**
+
+- 👨 I’m Jose Pedraza.
+- 😄 Pronouns: he/him/his.
+- 🏢 I currently work at .
+- 📧 How to reach me: 
+- 💬 Skype: 
+
 
 ## Introduction
 
