@@ -1,6 +1,4 @@
-### Hi there, 👨- I'm <a href="" target="_blank" title="Jose Pedraza">Jose Pedraza</a> 👋
-
-### Glad to see you here!
+### Hi there, 👨- I'm <a href="" target="_blank" title="Jose Pedraza">Jose Pedraza</a> 👋 ### Glad to see you here!
 
 <img align="right" alt="Jose Pedraza" src="images/code.gif" width="400" />
 
