@@ -58,3 +58,7 @@ Backend Developer with expertise in Machine Learning (ML) infrastructure, specia
 </div>
 
 ## Links
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  </a></p>
