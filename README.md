@@ -1,4 +1,4 @@
-### Hi there! - 👨 I'm <a href="" target="_blank" title="Jose Pedraza">Jose Pedraza</a> 👋
+### Hi there! | 👨- I'm <a href="" target="_blank" title="Jose Pedraza">Jose Pedraza</a> 👋
 
 ### Glad to see you here!
 
