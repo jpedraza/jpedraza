@@ -58,6 +58,15 @@ Backend Developer with expertise in Machine Learning (ML) infrastructure, specia
 </div>
 
 ## Links
+<p align="center">
+  <a href="https://josepedraza.github.io/"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /> </a> 
+  
+  <a> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </a>
+</p>
+
+<p align="center">
+  <a href="https://u8views.com/github/charlesfranciscodev"><img src="https://u8views.com/api/v1/github/profiles/12102640/views/day-week-month-total-count.svg"></a>
+</p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=jpedraza&rank_icon=github&include_all_commits=true&show_icons=true&theme=transparent"></a>
