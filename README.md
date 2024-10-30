@@ -12,4 +12,19 @@ Backend Developer with expertise in Machine Learning (ML) infrastructure, specia
   </a>
 </p>
 
+**Web Backend:**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,dynamodb,fastapi,flask,kafka,mysql,postgres,rabbitmq,redis,supabase" />
+  </a>
+</p>
+
+**Web Frontend:**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,graphql,nextjs,react,vue" />
+  </a>
+</p>
 
