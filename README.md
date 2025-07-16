@@ -3,7 +3,7 @@
 <img align="right" alt="Jose Pedraza" src="meeting.jpg" width="365" />
 
 Project rescuer and building effective solutions. </br>Love interacting with the community, sharing knowledge, and learning new things.
-</br>IT Remote Coach in the areas of Infrastructure, Cybersecurity, DevOps, Crypto, Blockchain, Full-Stack, Finance
+</br><br>IT Remote Coach in the areas of Infrastructure, Cybersecurity, DevOps, Crypto, Blockchain, Full-Stack, Finance
 <br><br>
 **Talking about personal stuff:**<br><br>
 [![Jose Pedraza's LinkedIn Profile](linkedin.png)](https://linkedin.com/in/)
