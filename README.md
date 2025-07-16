@@ -2,7 +2,7 @@
 
 <img align="right" alt="Jose Pedraza" src="meeting.jpg" width="365" />
 
-Project rescuer and building effective solutions. </br>Love interacting with the community, sharing knowledge, and learning new things.
+Project rescuer and building effective solutions. <br>Love interacting with the community, sharing knowledge, and learning new things.
 </br><br>IT Remote Coach in the areas of Infrastructure, Cybersecurity, DevOps, Crypto, Blockchain, Full-Stack, Finance
 <br><br>
 **Talking about personal stuff:**<br><br>
@@ -12,7 +12,7 @@ Project rescuer and building effective solutions. </br>Love interacting with the
 [![Jose Pedraza's Credly Profile](credly.png)](https://www.credly.com/users/)
 
 - 📧 How to reach me: 
-- 💬 Skype: 
+- 💬 WhatsApp: 
 
 
 ## Introduction
