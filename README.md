@@ -80,7 +80,7 @@ Backend Developer with expertise in Machine Learning (ML) infrastructure, specia
 </p>
 
 <p align="center">
- 
+ Software engineering methodology and cultural philosophy that merges development (Dev) and IT operations (Ops) teams to shorten the development lifecycle, improve deployment velocity, and ensure high-quality, reliable, and secure software delivery.
 </p>
 
 <p align="center">
