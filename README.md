@@ -16,7 +16,8 @@ Project rescuer and building effective solutions. Love interacting with the comm
 
 ## Introduction
 
-Backend Developer with expertise in Machine Learning (ML) infrastructure, specializing in building scalable and efficient solutions across various domains. Extensive experience in enhancing ML infrastructure for search algorithms, fraud detection, and recommendation systems, collaborating with data scientists to deploy models into production seamlessly. Proficient in designing automated data pipelines with Apache Airflow and AWS, developing and optimizing RESTful APIs, and implementing CI/CD pipelines to streamline deployments. Skilled in managing cloud infrastructure on AWS & Google Cloud leveraging microservices architecture for secure, scalable, and cost-effective solutions.
+Backend Developer with expertise in Machine Learning (ML) infrastructure, specializing in building scalable and efficient solutions across various domains. Extensive experience in enhancing ML infrastructure for search algorithms, fraud detection, and recommendation systems, collaborating with data scientists to deploy models into production seamlessly. Proficient in designing automated data pipelines with Apache Airflow and AWS, developing and optimizing RESTful APIs, and implementing CI/CD pipelines to streamline deployments. Skilled in managing cloud infrastructure on AWS & Google Cloud leveraging microservices architecture for secure, scalable, and cost-effective solutions. Experience building applications using Claude API or similar LLM APIs
+Prompt engineering and evaluation, Retrieval-Augmented Generation (RAG), Vector databases (Pinecone, Weaviate, Chroma, FAISS), Python, TypeScript/JavaScript, React, Node.js API development and cloud deployment (AWS, Azure, GCP), Agent workflows and tool calling Testing, monitoring, and improving AI outputs.
 
 ## Skills
 
